@@ -2,7 +2,7 @@
 
 # Tony Regi Jacob
 E-mail: tonyrjacob@gmail.com |
-Linkedin: [https://www.linkedin.com/in/tony-r-jacob] | Github: [https://www.github.com/tonyrjacob]
+Linkedin: https://www.linkedin.com/in/tony-r-jacob | Github: (github.com/tonyrjacob)
                                   
 ## Summary
 
@@ -24,8 +24,8 @@ Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, M
 
 ## Connect with Me
 
-- Linkedin: [https://www.linkedin.com/in/tony-r-jacob]
-- Github: [github.com/tonyrjacob](github.com/tonyrjacob)
+- Linkedin: https://www.linkedin.com/in/tony-r-jacob
+- Github: (github.com/tonyrjacob)
 
 ## Languages and Tools
 
