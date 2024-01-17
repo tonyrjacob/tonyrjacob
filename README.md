@@ -2,7 +2,7 @@
 
 # Tony Regi Jacob
 E-mail: tonyrjacob@gmail.com |
-Linkedin: [linkedin.com/in/tony-r-jacob](linkedin.com/in/tony-r-jacob) | Github: [github.com/tonyrjacob](github.com/tonyrjacob)
+Linkedin: [https://www.linkedin.com/in/tony-r-jacob] | Github: [github.com/tonyrjacob]
                                   
 ## Summary
 
