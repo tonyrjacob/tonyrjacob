@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 # Tony Regi Jacob
-Scarborough, Ontario, Canada, M1J 2 K3
-E-mail: tonyrjacob@gmail.com | Mobile: +1 343-558-3846
+E-mail: tonyrjacob@gmail.com |
 Linkedin: [linkedin.com/in/tony-r-jacob](linkedin.com/in/tony-r-jacob) | Github: [github.com/tonyrjacob](github.com/tonyrjacob)
                                   
 ## Summary
 
 **Software Engineer | Data Scientist**
 
-Experienced Data Scientist with over 2 years in Python, R, and SQL. Proficient in Data Analysis, Machine Learning Development, and Statistical Modeling. Effective communicator with strong problem-solving skills.
+Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, Machine Learning Development, and Statistical Modeling. Effective communicator with strong problem-solving skills.
 
 ## My Story
 
