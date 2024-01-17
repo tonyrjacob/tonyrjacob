@@ -24,7 +24,7 @@ Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, M
 
 ## Connect with Me
 
-- Linkedin: [linkedin.com/in/tony-r-jacob](linkedin.com/in/tony-r-jacob)
+- Linkedin: [https://www.linkedin.com/in/tony-r-jacob]
 - Github: [github.com/tonyrjacob](github.com/tonyrjacob)
 
 ## Languages and Tools
