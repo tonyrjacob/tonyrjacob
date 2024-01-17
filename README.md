@@ -12,7 +12,7 @@ Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, M
 
 ## My Story
 
-[Explore my portfolio] [https://tonyrjacob.github.io/]
+Explore my portfolio:  https://tonyrjacob.github.io/
 
 🌱 Embracing the world of Data Science!
 
@@ -29,17 +29,18 @@ Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, M
 
 ## Languages and Tools
 
-- AWS
-- Azure
-- Flask
-- Git
-- HTML5
-- Jenkins
-- Linux
-- MySQL
-- OpenCV
-- Python
-- PyTorch
-- Scikit-Learn
-- TensorFlow
+- ☁️ AWS
+- 🌐 Azure
+- 🌐 Flask
+- 🐙 Git
+- 🖥️ HTML5
+- 🚀 Jenkins
+- 🐧 Linux
+- 🐬 MySQL
+- 📷 OpenCV
+- 🐍 Python
+- 🔥 PyTorch
+- 🧠 Scikit-Learn
+- 🚀 TensorFlow
+
 
