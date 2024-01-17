@@ -12,7 +12,7 @@ Experienced Data Scientist in Python, R, and SQL. Proficient in Data Analysis, M
 
 ## My Story
 
-[Explore my portfolio]((https://tonyrjacob.github.io/))
+[Explore my portfolio] [https://tonyrjacob.github.io/]
 
 🌱 Embracing the world of Data Science!
 
